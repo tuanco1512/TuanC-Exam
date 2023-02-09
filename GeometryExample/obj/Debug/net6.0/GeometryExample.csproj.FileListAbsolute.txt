@@ -1,0 +1,15 @@
+E:\lap trinh\GeometryExample\GeometryExample\bin\Debug\net6.0\GeometryExample.exe
+E:\lap trinh\GeometryExample\GeometryExample\bin\Debug\net6.0\GeometryExample.deps.json
+E:\lap trinh\GeometryExample\GeometryExample\bin\Debug\net6.0\GeometryExample.runtimeconfig.json
+E:\lap trinh\GeometryExample\GeometryExample\bin\Debug\net6.0\GeometryExample.dll
+E:\lap trinh\GeometryExample\GeometryExample\bin\Debug\net6.0\GeometryExample.pdb
+E:\lap trinh\GeometryExample\GeometryExample\obj\Debug\net6.0\GeometryExample.csproj.AssemblyReference.cache
+E:\lap trinh\GeometryExample\GeometryExample\obj\Debug\net6.0\GeometryExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\lap trinh\GeometryExample\GeometryExample\obj\Debug\net6.0\GeometryExample.AssemblyInfoInputs.cache
+E:\lap trinh\GeometryExample\GeometryExample\obj\Debug\net6.0\GeometryExample.AssemblyInfo.cs
+E:\lap trinh\GeometryExample\GeometryExample\obj\Debug\net6.0\GeometryExample.csproj.CoreCompileInputs.cache
+E:\lap trinh\GeometryExample\GeometryExample\obj\Debug\net6.0\GeometryExample.dll
+E:\lap trinh\GeometryExample\GeometryExample\obj\Debug\net6.0\refint\GeometryExample.dll
+E:\lap trinh\GeometryExample\GeometryExample\obj\Debug\net6.0\GeometryExample.pdb
+E:\lap trinh\GeometryExample\GeometryExample\obj\Debug\net6.0\GeometryExample.genruntimeconfig.cache
+E:\lap trinh\GeometryExample\GeometryExample\obj\Debug\net6.0\ref\GeometryExample.dll
